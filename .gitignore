@@ -1,6 +1,7 @@
 # Environment variables
 .env
 IMG*.json
+IMG*.png
 analysis*.json
 combined*.json
 *.pdf
